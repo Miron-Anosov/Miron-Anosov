@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a junior Wep Backend Developer. My path to it began at the age of 22, when I wrote my first tg-bot. After that I started to learn different web-tochlologies. I like learning technologies and I especially like beautiful docs and great codestyle. Right now I'm studying Goland, and I have project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️ 
+<p align="left">I'm a junior Wep Backend Developer. My path to it began at the age of 22, when I wrote my first tg-bot. After that I started to learn different web-tochlologies. I like learning technologies and I especially like beautiful docs and great codestyle. Right now I'm studying Goland, and I have project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️ <br>
 - 📚 I finished course of web-develop on Skillbox!<br> </p>
 
 
