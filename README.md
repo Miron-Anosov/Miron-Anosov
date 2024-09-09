@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">I'm junior Wep Backend Developer.  My path to it began at the age of 22, then I wroye my first tg-bot. Ather that I started to learn differents web-tochlologies. I like lerning tecnologies and specialy I like beatiful docs and greate codestyle. Rith now I'm studying Goland, and I have prodect on Golang with my team! I think it give me interesting expirience and friends. ⚡ <br>- 📚 I finished  course of web-develop on Skillbox!<br> </p>
+<p align="left">I'm a junior Wep Backend Developer. My path to it began at the age of 22, when I wrote my first tg-bot. After that I started to learn different web-tochlologies. I like learning technologies and I especially like beautiful docs and great codestyle. Right now I'm studying Goland, and I have project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️ 
+- 📚 I finished course of web-develop on Skillbox!<br> </p>
 
 
 ###
@@ -58,6 +59,8 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" alt="Redis" />
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="Golang" />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="Swagger" />
   <img width="12" />
 </div>
 
