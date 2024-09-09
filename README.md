@@ -46,6 +46,7 @@ I finished course of web-develop on Skillbox!<br> </p>
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" alt="Redis" />
+  <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" height="40" alt="Golang" />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="Swagger" />
@@ -80,13 +81,13 @@ I finished course of web-develop on Skillbox!<br> </p>
 ###
 <div align="center">
   <a href="https://t.me/MIRON_ANOSOV" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="35" alt="telegram logo"  /> <img width="12" />
   </a>
     <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="40" alt="linkedIn logo"/>
+    <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="35" alt="linkedIn logo"/> <img width="12" />
   </a>
     <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="40" alt="Leetcode logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="35" alt="Leetcode logo" /> <img width="12" />
   </a>
 </div>
 <div align="center">
