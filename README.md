@@ -6,18 +6,6 @@
   <img height="400" width="750" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif"  />
 </div>
 
-<div align="center">
-  <a href="https://t.me/MIRON_ANOSOV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=miron-anosov.miron-anosov&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
@@ -86,3 +74,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miron-anosov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://t.me/MIRON_ANOSOV" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo"/>
+  </a>
+    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="40" alt="linkedIn logo"/>
+  </a>
+    <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="40" alt="Leetcode logo" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miron-anosov.miron-anosov&"  />
+</div>
+
