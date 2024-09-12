@@ -77,19 +77,25 @@ I finished course of web-develop on Skillbox!<br> </p>
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-
 ###
-<div align="center">
-  <a href="https://t.me/MIRON_ANOSOV" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="35" alt="telegram logo"  /> <img width="12" />
-  </a>
+
+
+<div id="badges" align="center">
+  <div aling="center"><h4>Contacts:</h4> </div>
     <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="35" alt="linkedIn logo"/> <img width="12" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="35" alt="Leetcode logo" /> <img width="12" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
+  </a>
+  <a href="https://t.me/MIRON_ANOSOV" target="_blank" >
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=miron-anosov.miron-anosov&"  />
 </div>
