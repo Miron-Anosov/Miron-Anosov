@@ -12,13 +12,8 @@
 
 ###
 
-<p align="left">I'm a Wep Backend Developer. My path to it began at the age of 21, when I wrote my first tg-bot. After that I started to learn different web-technologies I like learning technologies and I especially like beautiful docs and great codestyle. Right now I'm studying Goland, and I have project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️ <br>
-I finished course of web-develop on Skillbox!<br> </p>
-
-
-###
-
-
+<p align="left">I'm a Web Backend Developer. My path to it began at the age of 21, when I wrote my first tg-bot. After that, I started to learn different web-technologies. I like learning technologies, and I especially enjoy beautiful docs and great codestyle. Right now, I'm studying Golang, and I have a project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️<br>
+I finished a web development course at Skillbox!<br> </p>
 
 ###
 
@@ -33,7 +28,7 @@ I finished course of web-develop on Skillbox!<br> </p>
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" height="40" alt="Ubuntu"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FaskAPI"  />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/508915/flask.svg" height="40" alt="Flask"  />
   <img width="12" />
@@ -55,7 +50,7 @@ I finished course of web-develop on Skillbox!<br> </p>
 
 ###
 
-<h3 align="left">🔥   My statistic :</h3>
+<h3 align="left">🔥 My statistics:</h3>
 
 ###
 
@@ -63,11 +58,10 @@ I finished course of web-develop on Skillbox!<br> </p>
     <img src="https://streak-stats.demolab.com?user=miron-anosov&theme=transparent" alt="GitHub Streak" style="display: inline-block;"/>
 </div>
 
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miron-anosov&show_icons=true&theme=transparent" alt="GitHub Stats" height="150  alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miron-anosov&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miron-anosov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -79,24 +73,25 @@ I finished course of web-develop on Skillbox!<br> </p>
 
 ###
 
-
 <div id="badges" align="center">
   <div aling="center"><h4>Contacts:</h4> </div>
-    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
+  <a href="https://leetcode.com/u/mairon26rus/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
   </a>
-  <a href="https://t.me/MIRON_ANOSOV" target="_blank" >
+  <a href="https://t.me/MIRON_ANOSOV" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <br>
+  <a href="https://gist.github.com/Miron-Anosov/f6d7d4190f093742a36b1b7d5d399619" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Gist-orange?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
 </div>
-
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=miron-anosov.miron-anosov&"  />
 </div>
-
