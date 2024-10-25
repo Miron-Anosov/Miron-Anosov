@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me.</h3>
+<h4 align="left">👩‍💻 About Me.</h4>
 
 ###
 
@@ -17,7 +17,7 @@ I finished a web development course at Skillbox!<br> </p>
 
 ###
 
-<h3 align="left">🛠 Stack technologies:</h3>
+<h4 align="left">🛠 Stack technologies:</h4>
 
 ###
 
@@ -50,7 +50,7 @@ I finished a web development course at Skillbox!<br> </p>
 
 ###
 
-<h3 align="left">🔥 My statistics:</h3>
+<h4 align="left">🔥 My statistics:</h4>
 
 ###
 
