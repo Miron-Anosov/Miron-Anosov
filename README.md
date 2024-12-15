@@ -84,10 +84,6 @@ I finished a web development course at Skillbox!<br> </p>
   <a href="https://t.me/MIRON_ANOSOV" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <br>
-  <a href="https://gist.github.com/Miron-Anosov/f6d7d4190f093742a36b1b7d5d399619" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Gist-orange?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
-  </a>
 </div>
 
 ###
