@@ -46,6 +46,16 @@ I finished a web development course at Skillbox!<br> </p>
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="Swagger" />
   <img width="12" />
+  <img width="12" />  <img src="https://mypy.readthedocs.io/en/stable/_static/mypy_light.svg" height="40" alt="Mypy" />
+  <img width="12" />
+  <img width="12" />  <img width="12" />  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" height="40" alt="SQLAlchemy" />
+  <img width="12" />
+  <img width="12" />  <img width="12" />  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="MQ" />
+  <img width="12" />
+  <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" height="50" alt="Pytest" />
+  <img width="12" />
+  <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/grpcio/index.html&backText=Return+to+VectorLogoZone](https://grpc.io/img/logos/grpc-logo.png" height="60" alt="gRPC" />
+  <img width="12" /
 </div>
 
 ###
