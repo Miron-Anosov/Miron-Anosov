@@ -52,7 +52,9 @@ I finished a web development course at Skillbox!<br> </p>
   <img width="12" />
   <img width="12" />  <img width="12" />  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" height="40" alt="MQ" />
   <img width="12" />
-  <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" height="50" alt="Pytest" />
+  <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" height="40" alt="Pytest" />
+  <img width="12" />
+  <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://docs.pydantic.dev/latest/logo-white.svg" height="40" alt="Pydantic" />
   <img width="12" />
   <img width="12" />  <img width="12" />  <img width="12" />  <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/grpcio/index.html&backText=Return+to+VectorLogoZone](https://grpc.io/img/logos/grpc-logo.png" height="60" alt="gRPC" />
   <img width="12" /
