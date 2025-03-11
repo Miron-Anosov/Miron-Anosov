@@ -13,7 +13,6 @@
 ###
 
 <p align="left">I'm a Web Backend Developer. My path to it began at the age of 21, when I wrote my first tg-bot. After that, I started to learn different web-technologies. I like learning technologies, and I especially enjoy beautiful docs and great codestyle. Right now, I'm studying Golang, and I have a project on Golang with my team! I think it'll give me interesting experience and friends. ⚡️<br>
-I finished a web development course at Skillbox!<br> </p>
 
 ###
 
