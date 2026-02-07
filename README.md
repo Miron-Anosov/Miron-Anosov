@@ -1,4 +1,4 @@
-<h1 align="center">Hello every one! My name is Miron! 👋</h1>
+<h1 align="center">Доброго времени суток, дамы и господа! 👋</h1>
 
 <br clear="both">
 
